@@ -1,0 +1,1 @@
+This is a stylish and simple landing for a travel agency. It was created in pure HTML and CSS with simple animation. JavaScript (except third-party) was not used here. If someone has a desire to use this landing page for their own purposes, then they will need to replace the titles, pictures, texts and links to their own
